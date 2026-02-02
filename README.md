@@ -23,3 +23,5 @@ css_doublejump_help - Показать справку
 css_doublejump_settings - Показать настройки
 
 css_plugins reload CS2DoubleJump - Перезагрузить конфигурацию
+
+МОЙ ПЛАГИН ФОРК ЭТОГО ПЛАГИНА https://forums.alliedmods.net/showthread.php?p=1819503
