@@ -3,6 +3,8 @@ CS2 DoubleJump - плагин для Counter-Strike 2, позволяющий и
 
 ## Описание плагина: CS2 DoubleJump - плагин для CS2, добавляющий возможность дополнительных прыжков в воздухе (двойной прыжок и воздушный отскок при падении).
 
+https://www.youtube.com/watch?v=voXIQCIxAN4
+
 ### Требования
 1. CounterStrikeSharp API версии 1.0.362 или выше
 2. .NET 8.0 Runtime
